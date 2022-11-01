@@ -1,0 +1,26 @@
+body {
+    background-color: #FFD6FF;
+}
+
+#buttonContainer{
+    display: flex;
+    justify-content: center;
+    margin-top: 35%;
+}
+
+#quotebtn {
+    background-color: #c55df6;
+    color: #FEEAFA;
+    text-align: center;
+    font-size: 25px;
+}
+
+#quote {
+    text-align: center;
+    color: black;
+}
+
+#author {
+    text-align: center;
+    color: blue;
+}
